@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Suvam Debnath</h1>
 
 <p align="center">
-<a href="mailto:suvamdebnath@gmail.com" title="Email Address"><code>suvamdebnath@gmail.com</code></a>
+<a href="mailto:dsuvam106@gmail.com" title="Email Address"><code>dsuvam106@gmail.com</code></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
@@ -32,7 +32,7 @@ Cybersecurity Enthusiast learning webpentest
    <a href="https://medium.com/@suvamdebnath" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="suvamdebnath@gmail.com" target="_blank">
+  <a href="mailto:dsuvam106@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20077008/suvamdebnath" target="_blank">
